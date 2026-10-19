@@ -28,8 +28,8 @@ const Hero = () => {
           <Mascot
             className="outline-0"
             size={180}
-            directions="/mascots/beard-directions.webp"
-            reactions="/mascots/beard-reactions.webp"
+            directions={`${import.meta.env.BASE_URL}mascots/beard-directions.webp`}
+            reactions={`${import.meta.env.BASE_URL}mascots/beard-reactions.webp`}
             label="Portfolio Mascot"
           />
         </div>
