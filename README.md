@@ -2,7 +2,7 @@ Tharun Karthick — Portfolio V2
 
 A personal portfolio showcasing my projects, technical skills, and experience as a budding Frontend Developer.
 
-🌐 Live Portfolio: View Portfolio
+🌐 Live Portfolio: [View Portfolio](https://tharunkarthick-22.github.io/Portfolio_/)
 
 ✨ Features
 
