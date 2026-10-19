@@ -22,15 +22,10 @@ Modern UI — Built with React and Tailwind CSS.
 
 🛠️ Tech Stack
 
-Technology	                                Purpose
-React	                                      Component-based user interface
-Vite	                                      Development server and production build
-JavaScript	                                Interactive functionality
-Tailwind CSS	                              Responsive styling and layout
-Phosphor Icons / React Icons / Icon8       	Iconography
-Git & GitHub	                              Version control and source hosting
-GitHub Actions	                            Automated deployment
-GitHub Pages	                              Website hosting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,js,tailwind,html,css,git,github" alt="React, Vite, JavaScript, Tailwind CSS, HTML, CSS, Git and GitHub" />
+</p>
+
 
 👨‍💻 About Me
 
