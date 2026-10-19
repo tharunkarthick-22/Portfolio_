@@ -1,16 +1,51 @@
-# React + Vite
+Tharun Karthick — Portfolio V2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio showcasing my projects, technical skills, and experience as a budding Frontend Developer.
 
-Currently, two official plugins are available:
+🌐 Live Portfolio: View Portfolio
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
 
-## React Compiler
+Interactive Hero Section — Typing animation and an interactive portfolio mascot.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Animated Background — Subtle meteor effects for a dynamic visual experience.
 
-## Expanding the ESLint configuration
+Tech Stack Showcase — Orbiting technology icons highlighting my skills.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Projects Showcase — Explore my projects, technologies used, source code, and live demos.
+
+Experience Timeline — A visual overview of my professional journey.
+
+Responsive Design — Optimized for desktop, tablet, and mobile screens.
+
+Modern UI — Built with React and Tailwind CSS.
+
+🛠️ Tech Stack
+
+Technology	                                Purpose
+React	                                      Component-based user interface
+Vite	                                      Development server and production build
+JavaScript	                                Interactive functionality
+Tailwind CSS	                              Responsive styling and layout
+Phosphor Icons / React Icons / Icon8       	Iconography
+Git & GitHub	                              Version control and source hosting
+GitHub Actions	                            Automated deployment
+GitHub Pages	                              Website hosting
+
+👨‍💻 About Me
+
+I'm a budding Frontend Developer passionate about building responsive, interactive, and user-friendly web applications. I enjoy exploring modern web technologies and turning ideas into functional digital experiences.
+
+📬 Connect With Me
+
+Portfolio: tharunkarthick-22.github.io/Portfolio_
+
+GitHub: @tharunkarthick-22
+
+LinkedIn: https://www.linkedin.com/in/tharun-j-0724a31a7/
+
+Email: tharun220402@gmail.com
+
+<p align="center">
+  Thanks for visiting my portfolio repository! ⭐
+</p>
