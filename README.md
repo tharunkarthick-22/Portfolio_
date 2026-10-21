@@ -26,6 +26,19 @@ Modern UI — Built with React, Tailwind CSS and shadcn UI.
   <img src="https://skillicons.dev/icons?i=react,vite,js,tailwind,html,css,git,github" alt="React, Vite, JavaScript, Tailwind CSS, HTML, CSS, Git and GitHub" />
 </p>
 
+React — Component-based user interface.
+
+Vite — Fast development and production builds.
+
+JavaScript — Interactive functionality.
+
+Tailwind CSS — Responsive styling.
+
+shadcn/ui — Reusable UI components.
+
+Git & GitHub — Version control and project hosting.
+
+GitHub Pages — Portfolio deployment.
 
 👨‍💻 About Me
 
