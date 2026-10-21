@@ -18,7 +18,7 @@ Experience Timeline — A visual overview of my professional journey.
 
 Responsive Design — Optimized for desktop, tablet, and mobile screens.
 
-Modern UI — Built with React and Tailwind CSS.
+Modern UI — Built with React, Tailwind CSS and shadcn UI.
 
 🛠️ Tech Stack
 
